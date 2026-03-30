@@ -80,5 +80,5 @@ Me chamo Denis Goes, tenho 18 anos e sou de São Paulo. Atualmente, estou cursan
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/DenisGoes/DenisGoes/output/snake.svg" alt="Snake animation" />
+
 
